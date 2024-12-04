@@ -3,6 +3,8 @@ Hazard and excess hazard modelling with multidimensional penalized splines Use s
 
 (Excess) hazard model with (multidimensional) penalized splines and integrated smoothness estimation Use survPen With (In) R Software
 
+https://www.youtube.com/watch?v=CZdXeLWa2AM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
